@@ -1,3 +1,46 @@
-img{
-  width:150px;
-  height:400;}
+.col3 {
+  float: left;
+  width: 33%;
+  
+}
+img {
+  width: 400px;
+  height: 220px;
+}
+
+.colImg {
+  width: 100%;
+  height: initial;
+}
+body {
+  background-color: #ff80ff;
+}
+ul li {
+  text-align: center;
+  font-weight: bold;
+  font-size: 70px;
+  border: 3px solid #00ffff;
+  height: 100px;
+  width: 500px;
+  list-style-type: none;
+ 
+}
+
+.favorite li {
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.favorite ol {
+  height: 200px;
+  width: 200px;
+}
+
+
+.border {
+  border: top;
+}
+
+ol li {
+  text-align: center;
+}
